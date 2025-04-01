@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: jqpe2cyt3-nodejs-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/jqpe2cyt3-nodejs-gitops
